@@ -1,0 +1,48 @@
+{
+  "Cucumber Features": {
+    "coverage": {
+      "/Users/joshuaguthals/Documents/yodle tests/registry_app/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/joshuaguthals/Documents/yodle tests/registry_app/app/models/person.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/joshuaguthals/Documents/yodle tests/registry_app/app/controllers/people_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/joshuaguthals/Documents/yodle tests/registry_app/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1398693750
+  }
+}

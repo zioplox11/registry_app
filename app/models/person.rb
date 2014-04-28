@@ -4,9 +4,12 @@ class Person < ActiveRecord::Base
     def formal_name
       if(self.gender == 'male')
         return 'Mr ' + self.first_name + ' ' + self.last_name
+      elsif (self.gender == 'female')
+        return 'Ms ' + self.first_name + ' ' + self.last_name
       end
     end
 
 
 
 end
+
